@@ -1,9 +1,8 @@
 PATH
   remote: .
   specs:
-    omniauth-dingding (0.1.0)
-      omniauth (~> 2.0)
-      omniauth-oauth2 (~> 1.7.1)
+    omniauth-dingding (0.2.0)
+      omniauth-oauth2 (~> 1.5)
 
 GEM
   remote: https://rubygems.org/
