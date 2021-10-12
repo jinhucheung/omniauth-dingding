@@ -24,7 +24,7 @@ module OmniAuth
       info do
         {
           unionid: user_info['unionid'],
-          name: user_info['nick'],
+          username: user_info['nick'],
           ding_id: user_info['dingId']
         }.merge(user_info)
       end
